@@ -14,6 +14,7 @@ jobs:
         with:
           filename: anilist.svg
           base: ""
+          token: {{ secrets.TOKEN }}
           plugin_anilist: yes
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
