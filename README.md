@@ -9,10 +9,22 @@
 
 17 years old French student learning things about computers. Started coding in 2018!
 Also a gamer, a weeb and a musician!
+Student at EPITA.
 
-***Do not take this profile too seriously tho! Most of my repos sucks lol***
+***Do not take this profile too seriously and expects things from me! I'm just having fun while learning!***
 
----
+
+<br>
+
+
+<div align="center">
+
+## Currently learning
+
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C%23/Yasuraoka_Hanabi_Reading_CSharp_Language_Book.png.png" height=300></a>
+
+
+## Other stuff
 
 <details>
 <summary>🎵 Music</summary>
@@ -35,4 +47,5 @@ Also a gamer, a weeb and a musician!
 [![osu-profile](http://lemmmy.pw/osusig/sig.php?colour=hex000000&uname=TsuRuki_&pp=2&removeavmargin&darktriangles&opaqueavatar&onlineindicator=3&xpbar)](https://osu.ppy.sh/users/10729344)
 </div>
 </details>
+</div>
   
