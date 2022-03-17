@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Tsuruki - (つ)るき</h1>
+  
+  <img src="ruki-logo-white.png" height=200>
+  
+  # Tsuruki - (つ)るき
   
 </div>
 
@@ -11,7 +14,7 @@
 Also a gamer, a weeb and a musician!
 Student at EPITA.
 
-***Do not take this profile too seriously and expects things from me! I'm just having fun while learning!***
+***Do not take this profile too seriously and expect things from me! I'm just having fun while learning! (this my profile sucks a lot lol)***
 
 
 <br>
@@ -44,10 +47,18 @@ Student at EPITA.
 
 <details>
 <summary>🎮 Gaming</summary>
-<div align="center">
 
-[![osu-profile](http://lemmmy.pw/osusig/sig.php?colour=hex000000&uname=TsuRuki_&pp=2&removeavmargin&darktriangles&opaqueavatar&onlineindicator=3&xpbar)](https://osu.ppy.sh/users/10729344)
-</div>
+[ **osu!**  
+  ![osu-profile](http://lemmmy.pw/osusig/sig.php?colour=hex000000&uname=TsuRuki_&pp=2&removeavmargin&darktriangles&opaqueavatar&onlineindicator=3&xpbar)](https://osu.ppy.sh/users/10729344)
+  
+[**Minecraft**](https://namemc.com/profile/Nameless_Ruki.1)
+
+<a href="https://hypixel.net/player/Nameless_Ruki">
+<img src="https://gen.plancke.io/exp/Nameless_Ruki.png" width=400>
+<img src="https://gen.plancke.io/achievementPoints/Nameless_Ruki.png" width=400>  
+
+<img src="https://hypixel.paniek.de/signature/654349c05eac44258f287a63b53ebbcb/general-tooltip" height=150>
+</a>
 </details>
 </div>
   

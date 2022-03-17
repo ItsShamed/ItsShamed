@@ -19,3 +19,4 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_sections: favorites, watching
           plugin_anilist_user: tsuruki
+          plugin_anilist_shuffle: no
