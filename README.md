@@ -10,7 +10,7 @@
     <img src="https://lanyard.cnrad.dev/api/332082083604463616?animated=true&idleMessage=touching+grass" align="right"> 
 </a>
 
-17 years old French student learning things about computers. Started coding in 2018!
+18 years old French student learning things about computers. Started coding in 2018!
 Also a gamer, a weeb and a musician!
 Student at EPITA.
 
@@ -26,7 +26,7 @@ Student at EPITA.
 
 ## Currently learning
 
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C%23/Yasuraoka_Hanabi_Reading_CSharp_Language_Book.png.png" height=300></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C/Tohru_Reading_C_Programming_Language.png" height=300></a>
 
 
 ## Other stuff
