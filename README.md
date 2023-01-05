@@ -82,7 +82,8 @@ Student at EPITA.
 
 ### Languages and technologies I'm currently learning
 
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C/Tohru_Reading_C_Programming_Language.png" height=250></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png" height=250></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Rust/Rin_Shima_The_Rust_Programming_Language_3.png" height=250></a>
 
 
 ## Other stuff
