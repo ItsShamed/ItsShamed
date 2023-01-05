@@ -99,7 +99,7 @@ Student at EPITA.
 <details>
 <summary>🌸 Weeb</summary>
 
-[![anilist](/anilist.svg)](https://anilist.co/user/tsuruki/)
+[![anilist](/anilist.svg)](https://l.tsrk.me/al)
 </details>
 
 <details>
