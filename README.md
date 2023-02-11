@@ -81,8 +81,9 @@ Happy accidents, I guess...
 
 ### Languages and technologies I'm currently learning
 
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png" height=250></a>
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Rust/Rin_Shima_The_Rust_Programming_Language_3.png" height=250></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png" align="left" width="48.65%" alt="Kokoa Hoto and Chino Kafuu, reading The Go Programming Language"></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Rust/Rin_Shima_The_Rust_Programming_Language_3.png" alt="Rin Shima reading The Rust Programming Language" width=48.65%s></a>
+<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books" aria-label="C++ for Idiots"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg" align="center" alt="Cirno teaches C++" width=48.65%s></a>
 
 
 ## Other stuff
