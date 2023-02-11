@@ -14,16 +14,15 @@
     <img src="https://lanyard.cnrad.dev/api/332082083604463616?animated=true&idleMessage=touching+grass" align="right" alt="Discord profile (click to open in Discord)" width="50%"> 
 </a>
 
-18 years old French student learning things about computers. 
+18 year old French student learning things about computers. 
 Started coding in 2018!
 Also a gamer, a weeb and a musician!
 Student at EPITA.
 
+I code things for my own sake because it's fun.
+Turns out that my sake also matches other people's sakes.
+Happy accidents, I guess...
 
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 
