@@ -14,7 +14,7 @@
     <img src="https://lanyard.cnrad.dev/api/332082083604463616?animated=true&idleMessage=touching+grass" align="right" alt="Discord profile (click to open in Discord)" width="50%"> 
 </a>
 
-18 year old French student learning things about computers. 
+19 year old French student learning things about computers. 
 Started coding in 2018!
 Also a gamer, a weeb and a musician!
 Student at EPITA.
