@@ -113,6 +113,7 @@ Happy accidents, I guess...
 <summary>🎮 Gaming</summary>
 
 [**osu!**](https://osu.ppy.sh/users/10729344)  
+
 [![osu-profile](https://osu-sig.vercel.app/card?user=10729344&mode=std&lang=en&animation=true&hue=255&mini=true)](https://osu.ppy.sh/users/10729344)
 [![osumania-profile](https://osu-sig.vercel.app/card?user=10729344&mode=mania&lang=en&animation=true&hue=255&mini=true)](https://osu.ppy.sh/users/10729344/mania)
 
