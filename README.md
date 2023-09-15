@@ -113,7 +113,9 @@ Happy accidents, I guess...
 <summary>🎮 Gaming</summary>
 
 [ **osu!**  
-![osu-profile](http://lemmmy.pw/osusig/sig.php?colour=hex000000&uname=TsuRuki_&pp=2&removeavmargin&darktriangles&opaqueavatar&onlineindicator=3&xpbar)](https://osu.ppy.sh/users/10729344)
+[![osu-profile](https://osu-sig.vercel.app/card?user=10729344&mode=std&lang=en&animation=true&hue=255&mini=true)](https://osu.ppy.sh/users/10729344)
+[![osumania-profile](https://osu-sig.vercel.app/card?user=10729344&mode=mania&lang=en&animation=true&hue=255&mini=true)](https://osu.ppy.sh/users/10729344/mania)
+
 
 [**Minecraft**](https://namemc.com/profile/Nameless_Ruki.1)
 
