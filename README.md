@@ -66,7 +66,7 @@ Happy accidents, I guess...
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-[^1]: Will soon wipe everything for ![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos) :) Under construction at https://git.tsrk.me/tsrk/tsrk-nix-flex 
+[^1]: Will soon wipe everything for ![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos) :) Under construction at https://git.tsrk.me/tsrk/tsrk-nix-flex-2 
 
 
 <div align="center">
