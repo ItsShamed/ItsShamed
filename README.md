@@ -60,14 +60,12 @@ Happy accidents, I guess...
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![JetBrains Products](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&labelColor=27282c&color=black)
 
-### OSes I use[^1]
+### OSes I use
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+[![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos)](https://github.com/ItsShamed/tsrk-nix-flex)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-[^1]: Will soon wipe everything for ![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos) :) Under construction at https://git.tsrk.me/tsrk/tsrk-nix-flex 
-
 
 <div align="center">
 
