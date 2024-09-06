@@ -33,47 +33,57 @@ Happy accidents, I guess...
 
 </div>
 
-### Languages I use
+### Languages I learned so far
 
 <div>
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
+![C#](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg)
+![Dart](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg)
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)
+![Lua](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)
 
 </div>
 
 ### What I know to use
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+#### DevOps
+
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg)
+![Kubernetes](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg)
+![Ansible](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg)
+![Terraform](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg)
+
+#### Environments and toolchains and frameworks
+
+![Apache Maven](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg)
+![Gradle](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg)
+![.Net](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg)
+![Flutter](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg)
 
 ### I code with
 
-![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
-![JetBrains Products](https://img.shields.io/badge/JetBrains-black?style=for-the-badge&logo=jetbrains&labelColor=27282c&color=black)
+![Neovim](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg)
+![JetBrains Products](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg)
 
 ### OSes I use
 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-[![NixOS](https://img.shields.io/badge/NixOS-white?style=for-the-badge&logo=nixos)](https://github.com/ItsShamed/tsrk-nix-flex)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Arch](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg)
+[![NixOS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg)](https://github.com/ItsShamed/tsrk-nix-flex)
+![macOS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg) <!-- Not that much tbh lmao -->
+![Windows](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg) <!-- Not that much either since using NixOS, only for music production ig -->
 
 <div align="center">
 
-### Languages and technologies I'm currently learning
+### Languages and technologies that I want to learn
 
 <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Go/Kokoa_Hoto_And_Chino_Kafuu_Reading_The_Go_Programming_Language.png" align="left" width="48.65%" alt="Kokoa Hoto and Chino Kafuu, reading The Go Programming Language"></a>
 <a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/Rust/Rin_Shima_The_Rust_Programming_Language_3.png" alt="Rin Shima reading The Rust Programming Language" width=48.65%s></a>
-<a href="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books" aria-label="C++ for Idiots"><img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/raw/master/C%2B%2B/cirno_teaches_c%2B%2B.jpg" align="center" alt="Cirno teaches C++" width=48.65%s></a>
 
 
 ## Other stuff
