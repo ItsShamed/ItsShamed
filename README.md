@@ -88,7 +88,7 @@ Happy accidents, I guess...
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch" height="32px">
-<a href="https://github.com/ItsShamed/tsrk-nix-flex><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" height="32px"></a>
+<a href="https://github.com/ItsShamed/tsrk-nix-flex"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" alt="NixOS" height="32px"></a>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" alt="macOS" height="32px"> <!-- Not that much tbh lmao -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" height="32px"> <!-- Not that much either since using NixOS, only for music production ig -->
 
