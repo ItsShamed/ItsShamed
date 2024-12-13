@@ -47,6 +47,7 @@ Happy accidents, I guess...
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="32px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="32px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" height="32px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vala/vala-original.svg" alt="Vala" height="32px">
 
 </div>
 
